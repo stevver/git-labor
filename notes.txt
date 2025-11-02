@@ -1,0 +1,6 @@
+Git Labor Märkmed
+=================
+
+1. Git init - loo repo
+2. Git add - lisa staged
+3. Git commit - salvesta
