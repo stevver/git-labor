@@ -1,4 +1,6 @@
 # Git Labor Projekt
+**Autor:** Stever  
+**Kuupäev:** 2025-11-02
 
 See on minu esimene Git repositoorium.
 
