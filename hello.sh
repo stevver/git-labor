@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Tere, Git!"
+echo "Tere, Git! Kuidas läheb?"
+
