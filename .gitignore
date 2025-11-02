@@ -1,0 +1,14 @@
+# Logid
+*.log
+
+# Temp
+temp/
+*.tmp
+
+# Secrets
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
